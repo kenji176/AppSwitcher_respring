@@ -1,4 +1,4 @@
-THEOS_DEVICE_IP = 
+THEOS_DEVICE_IP = xxxxxxx
 TARGET := iphone:clang:latest:7.0
 
 
